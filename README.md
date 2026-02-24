@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>Hi, I'm Ubaid Hashmi — a Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and React.<br><br>Currently, I’m expanding my skills by learning Backend development to become a Full Stack Developer. <br>I enjoy building responsive and user-friendly web applications while continuously improving my <br>problem-solving skills.<br><br>🛠️ Tech Stack<br><br>Frontend: HTML | CSS | JavaScript | React<br>Learning: Backend Development<br><br>🎯 Goal<br><br>To become a skilled Full Stack Developer and build complete, real-world web applications.
 
 
